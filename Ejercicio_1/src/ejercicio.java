@@ -13,6 +13,7 @@ public class ejercicio
 		// TODO Auto-generated method stub
 		System.out.println("Hello word\n");
 		System.out.println("La edad es de "+edad+" años\n");
+		System.out.println("Hello 2");
 
 	}
 
