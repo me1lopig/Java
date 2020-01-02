@@ -1,5 +1,6 @@
 // primera aplicacion
 // aplicacion a enviar a github
+
 public class ejercicio 
 {
 
